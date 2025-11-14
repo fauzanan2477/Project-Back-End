@@ -2,21 +2,17 @@
 Tugas Akhir Learning Labs Backend
 
 Identitas Peserta
-- Nama Lengkap:  
-- NIM:  
-- Program Studi:  
-- Kelas / Angkatan:  
+- Nama Lengkap: FauzaN Akbar Navis 
+- NIM: L0125041 
+- Program Studi: Informatika
+- Kelas / Angkatan: 1 / 2025 
 
 ---
 
 Deskripsi Proyek
-Tuliskan penjelasan singkat tentang proyek yang kamu buat.  
-Contoh:  
-> Aplikasi ini merupakan sistem pencatatan barang di gudang yang dapat digunakan untuk menambah, menampilkan, mengubah, dan menghapus data barang.
+> Website ini merupakan sistem pencatatan buku di perpustakaan dimana bisa menampilkan identitas dari buku seperti judul, pengarang, hingga stok buku. Selain itu, website ini juga tersedia fitur CRUD, yang bisa menambahkan buku yang belum ada dalam daftar, edit atau update buku jika ada kondisi terbaru, hapus data buku, dan fitur pencarian untuk memudahkan mencari buku.
 
 ---
 
-Alasan Memilih Tema
-Tuliskan alasan kenapa kamu memilih tema tersebut.  
-Contoh:  
-> Saya memilih tema ini karena sistem inventaris sering digunakan di dunia kerja dan relevan untuk latihan CRUD dengan database.
+Alasan Memilih Tema 
+> Saya memilih tema ini karena sistem ini merupakan sistem yang dimana mudah diaplikasikan dalam kehidupan sehari-hari dan tentunya masih relevan dan berguna di zaman sekarang.
