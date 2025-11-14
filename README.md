@@ -2,10 +2,10 @@
 Tugas Akhir Learning Labs Backend
 
 Identitas Peserta
-- Nama Lengkap: FauzaN Akbar Navis 
+- Nama Lengkap: Fauzan Akbar Navis 
 - NIM: L0125041 
 - Program Studi: Informatika
-- Kelas / Angkatan: 1 / 2025 
+- Kelas / Angkatan: A / 2025 
 
 ---
 
@@ -15,4 +15,4 @@ Deskripsi Proyek
 ---
 
 Alasan Memilih Tema 
-> Saya memilih tema ini karena sistem ini merupakan sistem yang dimana mudah diaplikasikan dalam kehidupan sehari-hari dan tentunya masih relevan dan berguna di zaman sekarang.
+> Saya memilih tema ini karena sistem ini merupakan sistem yang mudah diaplikasikan dalam kehidupan sehari-hari dan tentunya masih relevan dan berguna di zaman sekarang.
